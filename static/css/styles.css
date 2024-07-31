@@ -1,0 +1,22 @@
+body {
+    background-color: #D27EA4;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+
+
+  .github{
+    position:absolute;
+    margin-left:0.5em;
+  }
+  .second{
+    margin-top:0.0em ;
+  }
